@@ -1,7 +1,5 @@
 package training.ps.calcengine;
 
-// TESTING GIT again
-
 public class Adder extends CalculateBase implements MathProcessing {
 
     public Adder() {}
